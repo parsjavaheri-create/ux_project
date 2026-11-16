@@ -1,4 +1,4 @@
-# <App name>: <the idea in one sentence>
+# <App name>: <Favorite movie finder>
 
 Student: <Parsa Javaheri>  ·  Platform: <Android>
 Figma design file: <link, "anyone with the link can view">

@@ -1,4 +1,4 @@
-# <App name>: <Favorite movie finder>
+# <App Popcorn>: <Favorite movie finder>
 
 Student: <Parsa Javaheri>  ·  Platform: <Android>
 Figma design file: <link, "anyone with the link can view">
